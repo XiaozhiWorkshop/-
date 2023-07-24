@@ -1,0 +1,34 @@
+<mxfile host="Electron" modified="2023-07-21T13:49:56.740Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) draw.io/21.6.1 Chrome/112.0.5615.204 Electron/24.6.1 Safari/537.36" etag="bteWRK8vIEc47yC-KGNL" version="21.6.1" type="device">
+  <diagram name="第 1 页" id="m2fm3jRCatw7d2Zvl0W3">
+    <mxGraphModel dx="1084" dy="1062" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="1169" pageHeight="1654" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="zn7Un_yw3AAWJuZTGmoi-2" value="关卡系统" style="swimlane;whiteSpace=wrap;html=1;fontSize=16;fillColor=#f8cecc;strokeColor=#b85450;" parent="1" vertex="1">
+          <mxGeometry x="-90" y="-28" width="130" height="96" as="geometry" />
+        </mxCell>
+        <mxCell id="zn7Un_yw3AAWJuZTGmoi-1" value="关卡助战" style="rounded=0;whiteSpace=wrap;html=1;fontSize=16;fillColor=#f8cecc;strokeColor=#b85450;" parent="zn7Un_yw3AAWJuZTGmoi-2" vertex="1">
+          <mxGeometry x="11" y="30" width="109" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="zn7Un_yw3AAWJuZTGmoi-4" value="社交系统" style="swimlane;whiteSpace=wrap;html=1;fontSize=16;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="1" vertex="1">
+          <mxGeometry x="140" y="-28" width="130" height="96" as="geometry" />
+        </mxCell>
+        <mxCell id="zn7Un_yw3AAWJuZTGmoi-5" value="好友" style="rounded=0;whiteSpace=wrap;html=1;fontSize=16;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="zn7Un_yw3AAWJuZTGmoi-4" vertex="1">
+          <mxGeometry x="11" y="30" width="109" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="zn7Un_yw3AAWJuZTGmoi-7" style="edgeStyle=none;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.25;exitDx=0;exitDy=0;entryX=1;entryY=0.25;entryDx=0;entryDy=0;fontSize=12;startSize=8;endSize=8;" parent="1" source="zn7Un_yw3AAWJuZTGmoi-5" target="zn7Un_yw3AAWJuZTGmoi-1" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="zn7Un_yw3AAWJuZTGmoi-8" style="edgeStyle=none;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.75;exitDx=0;exitDy=0;entryX=0;entryY=0.75;entryDx=0;entryDy=0;fontSize=12;startSize=8;endSize=8;" parent="1" source="zn7Un_yw3AAWJuZTGmoi-1" target="zn7Un_yw3AAWJuZTGmoi-5" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="zn7Un_yw3AAWJuZTGmoi-9" value="&lt;font style=&quot;font-size: 12px;&quot;&gt;借用好友角色&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=16;" parent="1" vertex="1">
+          <mxGeometry x="50" y="-10" width="81" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="zn7Un_yw3AAWJuZTGmoi-11" value="&lt;font style=&quot;font-size: 12px;&quot;&gt;提供信用点货币&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=16;" parent="1" vertex="1">
+          <mxGeometry x="45.5" y="38" width="90" height="30" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
