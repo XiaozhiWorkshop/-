@@ -1,0 +1,316 @@
+<mxfile host="Electron" modified="2023-07-28T02:31:00.937Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) draw.io/21.6.1 Chrome/112.0.5615.204 Electron/24.6.1 Safari/537.36" etag="wovxI3vj6PZ2NUoolQKa" version="21.6.1" type="device">
+  <diagram name="第 1 页" id="MhETuVyxjPG7NHYK42NK">
+    <mxGraphModel dx="1982" dy="2124" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="1169" pageHeight="1654" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="vCWMsVKqXc2wzSp4FVHM-1" value="地图探索" style="swimlane;whiteSpace=wrap;html=1;fontSize=16;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
+          <mxGeometry x="-40" y="140" width="200" height="200" as="geometry" />
+        </mxCell>
+        <mxCell id="vCWMsVKqXc2wzSp4FVHM-2" value="隐藏任务" style="rounded=0;whiteSpace=wrap;html=1;fontSize=16;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="vCWMsVKqXc2wzSp4FVHM-1">
+          <mxGeometry x="20" y="40" width="160" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="vCWMsVKqXc2wzSp4FVHM-82" style="edgeStyle=none;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;fontSize=12;startSize=8;endSize=8;" edge="1" parent="vCWMsVKqXc2wzSp4FVHM-1" source="vCWMsVKqXc2wzSp4FVHM-3">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="320" y="150.33333333333348" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="vCWMsVKqXc2wzSp4FVHM-3" value="宝箱" style="rounded=0;whiteSpace=wrap;html=1;fontSize=16;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="vCWMsVKqXc2wzSp4FVHM-1">
+          <mxGeometry x="20" y="120" width="160" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="vCWMsVKqXc2wzSp4FVHM-10" value="+ 地区货币" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=16;" vertex="1" parent="1">
+          <mxGeometry x="-230" y="50" width="110" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="vCWMsVKqXc2wzSp4FVHM-14" value="" style="endArrow=none;html=1;rounded=0;fontSize=12;startSize=8;endSize=8;curved=1;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="60" y="560" as="sourcePoint" />
+            <mxPoint x="280" y="560" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="vCWMsVKqXc2wzSp4FVHM-15" value="任务系统" style="swimlane;whiteSpace=wrap;html=1;fontSize=16;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="1">
+          <mxGeometry x="280" y="440" width="670" height="260" as="geometry" />
+        </mxCell>
+        <mxCell id="vCWMsVKqXc2wzSp4FVHM-73" style="edgeStyle=none;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;fontSize=12;startSize=8;endSize=8;" edge="1" parent="vCWMsVKqXc2wzSp4FVHM-15" source="vCWMsVKqXc2wzSp4FVHM-59">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="189.71428571428578" y="-140" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="vCWMsVKqXc2wzSp4FVHM-59" value="" style="rounded=0;whiteSpace=wrap;html=1;fontSize=16;" vertex="1" parent="vCWMsVKqXc2wzSp4FVHM-15">
+          <mxGeometry x="20" y="40" width="340" height="200" as="geometry" />
+        </mxCell>
+        <mxCell id="vCWMsVKqXc2wzSp4FVHM-24" style="edgeStyle=none;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fontSize=12;startSize=8;endSize=8;" edge="1" parent="vCWMsVKqXc2wzSp4FVHM-15" source="vCWMsVKqXc2wzSp4FVHM-19" target="vCWMsVKqXc2wzSp4FVHM-23">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="vCWMsVKqXc2wzSp4FVHM-19" value="开拓任务" style="rounded=0;whiteSpace=wrap;html=1;fontSize=16;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="vCWMsVKqXc2wzSp4FVHM-15">
+          <mxGeometry x="40" y="70" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="vCWMsVKqXc2wzSp4FVHM-23" value="通行任务" style="rounded=0;whiteSpace=wrap;html=1;fontSize=16;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="vCWMsVKqXc2wzSp4FVHM-15">
+          <mxGeometry x="220" y="70" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="vCWMsVKqXc2wzSp4FVHM-22" value="冒险任务" style="rounded=0;whiteSpace=wrap;html=1;fontSize=16;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="vCWMsVKqXc2wzSp4FVHM-15">
+          <mxGeometry x="220" y="160" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="vCWMsVKqXc2wzSp4FVHM-25" value="解锁" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=16;" vertex="1" parent="vCWMsVKqXc2wzSp4FVHM-15">
+          <mxGeometry x="160" y="70" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="vCWMsVKqXc2wzSp4FVHM-70" style="edgeStyle=none;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;fontSize=12;startSize=8;endSize=8;" edge="1" parent="vCWMsVKqXc2wzSp4FVHM-15" source="vCWMsVKqXc2wzSp4FVHM-64">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="450" y="-140" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="vCWMsVKqXc2wzSp4FVHM-64" value="每日实训" style="rounded=0;whiteSpace=wrap;html=1;fontSize=16;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="vCWMsVKqXc2wzSp4FVHM-15">
+          <mxGeometry x="390" y="70" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="vCWMsVKqXc2wzSp4FVHM-65" value="日常任务" style="rounded=0;whiteSpace=wrap;html=1;fontSize=16;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="vCWMsVKqXc2wzSp4FVHM-15">
+          <mxGeometry x="530" y="70" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="vCWMsVKqXc2wzSp4FVHM-16" value="" style="endArrow=classic;html=1;rounded=0;fontSize=12;startSize=8;endSize=8;curved=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" target="vCWMsVKqXc2wzSp4FVHM-1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="60" y="560" as="sourcePoint" />
+            <mxPoint x="400" y="500" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="vCWMsVKqXc2wzSp4FVHM-26" value="" style="endArrow=none;html=1;rounded=0;fontSize=12;startSize=8;endSize=8;curved=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" target="vCWMsVKqXc2wzSp4FVHM-25">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="470" y="630" as="sourcePoint" />
+            <mxPoint x="480" y="520" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="vCWMsVKqXc2wzSp4FVHM-27" value="" style="endArrow=classic;html=1;rounded=0;fontSize=12;startSize=8;endSize=8;curved=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" target="vCWMsVKqXc2wzSp4FVHM-22">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="470" y="630" as="sourcePoint" />
+            <mxPoint x="480" y="520" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="vCWMsVKqXc2wzSp4FVHM-28" value="地区货币" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=16;" vertex="1" parent="1">
+          <mxGeometry x="130" y="530" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="vCWMsVKqXc2wzSp4FVHM-31" value="角色养成系统" style="swimlane;whiteSpace=wrap;html=1;fontSize=16;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
+          <mxGeometry x="280" y="80" width="860" height="220" as="geometry" />
+        </mxCell>
+        <mxCell id="vCWMsVKqXc2wzSp4FVHM-32" value="角色获取" style="swimlane;whiteSpace=wrap;html=1;fontSize=16;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="vCWMsVKqXc2wzSp4FVHM-31">
+          <mxGeometry x="20" y="40" width="120" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="vCWMsVKqXc2wzSp4FVHM-33" value="- 星琼&lt;br&gt;- 抽卡道具" style="text;html=1;strokeColor=#b85450;fillColor=#f8cecc;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=16;" vertex="1" parent="vCWMsVKqXc2wzSp4FVHM-32">
+          <mxGeometry y="20" width="120" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="vCWMsVKqXc2wzSp4FVHM-109" style="edgeStyle=none;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;fontSize=12;startSize=8;endSize=8;" edge="1" parent="vCWMsVKqXc2wzSp4FVHM-32" source="vCWMsVKqXc2wzSp4FVHM-33" target="vCWMsVKqXc2wzSp4FVHM-33">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="vCWMsVKqXc2wzSp4FVHM-37" value="星魂" style="swimlane;whiteSpace=wrap;html=1;fontSize=16;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="vCWMsVKqXc2wzSp4FVHM-31">
+          <mxGeometry x="160" y="40" width="120" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="vCWMsVKqXc2wzSp4FVHM-38" value="- 相同角色" style="text;html=1;strokeColor=#b85450;fillColor=#f8cecc;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=16;" vertex="1" parent="vCWMsVKqXc2wzSp4FVHM-37">
+          <mxGeometry y="20" width="120" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="vCWMsVKqXc2wzSp4FVHM-40" value="角色强化" style="swimlane;whiteSpace=wrap;html=1;fontSize=16;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="vCWMsVKqXc2wzSp4FVHM-31">
+          <mxGeometry x="300" y="40" width="120" height="160" as="geometry" />
+        </mxCell>
+        <mxCell id="vCWMsVKqXc2wzSp4FVHM-41" value="+ 相同角色" style="text;html=1;strokeColor=#b85450;fillColor=#f8cecc;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=16;" vertex="1" parent="vCWMsVKqXc2wzSp4FVHM-40">
+          <mxGeometry y="20" width="120" height="140" as="geometry" />
+        </mxCell>
+        <mxCell id="vCWMsVKqXc2wzSp4FVHM-43" value="光锥" style="swimlane;whiteSpace=wrap;html=1;fontSize=16;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="vCWMsVKqXc2wzSp4FVHM-31">
+          <mxGeometry x="440" y="40" width="120" height="160" as="geometry" />
+        </mxCell>
+        <mxCell id="vCWMsVKqXc2wzSp4FVHM-44" value="+ 相同角色" style="text;html=1;strokeColor=#b85450;fillColor=#f8cecc;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=16;" vertex="1" parent="vCWMsVKqXc2wzSp4FVHM-43">
+          <mxGeometry y="20" width="120" height="140" as="geometry" />
+        </mxCell>
+        <mxCell id="vCWMsVKqXc2wzSp4FVHM-47" value="遗器" style="swimlane;whiteSpace=wrap;html=1;fontSize=16;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="vCWMsVKqXc2wzSp4FVHM-31">
+          <mxGeometry x="720" y="40" width="120" height="160" as="geometry" />
+        </mxCell>
+        <mxCell id="vCWMsVKqXc2wzSp4FVHM-48" value="+ 相同角色" style="text;html=1;strokeColor=#b85450;fillColor=#f8cecc;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=16;" vertex="1" parent="vCWMsVKqXc2wzSp4FVHM-47">
+          <mxGeometry y="20" width="120" height="140" as="geometry" />
+        </mxCell>
+        <mxCell id="vCWMsVKqXc2wzSp4FVHM-111" value="" style="edgeStyle=elbowEdgeStyle;elbow=vertical;endArrow=classic;html=1;curved=0;rounded=0;endSize=8;startSize=8;fontSize=12;entryX=0.5;entryY=1;entryDx=0;entryDy=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="vCWMsVKqXc2wzSp4FVHM-31" source="vCWMsVKqXc2wzSp4FVHM-33" target="vCWMsVKqXc2wzSp4FVHM-38">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="230" y="100" as="sourcePoint" />
+            <mxPoint x="280" y="50" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="160" y="200" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="vCWMsVKqXc2wzSp4FVHM-112" value="获得相同角色" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=16;" vertex="1" parent="vCWMsVKqXc2wzSp4FVHM-31">
+          <mxGeometry x="90" y="160" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="vCWMsVKqXc2wzSp4FVHM-45" value="行迹" style="swimlane;whiteSpace=wrap;html=1;fontSize=16;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
+          <mxGeometry x="860" y="120" width="120" height="160" as="geometry" />
+        </mxCell>
+        <mxCell id="vCWMsVKqXc2wzSp4FVHM-46" value="+ 相同角色" style="text;html=1;strokeColor=#b85450;fillColor=#f8cecc;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=16;" vertex="1" parent="vCWMsVKqXc2wzSp4FVHM-45">
+          <mxGeometry y="20" width="120" height="140" as="geometry" />
+        </mxCell>
+        <mxCell id="vCWMsVKqXc2wzSp4FVHM-133" style="edgeStyle=none;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fontSize=12;startSize=8;endSize=8;" edge="1" parent="1" source="vCWMsVKqXc2wzSp4FVHM-49" target="vCWMsVKqXc2wzSp4FVHM-57">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="vCWMsVKqXc2wzSp4FVHM-49" value="战斗系统" style="swimlane;whiteSpace=wrap;html=1;fontSize=16;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
+          <mxGeometry x="400" y="-350" width="580" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="vCWMsVKqXc2wzSp4FVHM-51" value="忘却之庭" style="rounded=0;whiteSpace=wrap;html=1;fontSize=16;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="vCWMsVKqXc2wzSp4FVHM-49">
+          <mxGeometry x="20" y="40" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="vCWMsVKqXc2wzSp4FVHM-52" value="野外战斗" style="rounded=0;whiteSpace=wrap;html=1;fontSize=16;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="vCWMsVKqXc2wzSp4FVHM-49">
+          <mxGeometry x="160" y="40" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="vCWMsVKqXc2wzSp4FVHM-53" value="模拟宇宙" style="rounded=0;whiteSpace=wrap;html=1;fontSize=16;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="vCWMsVKqXc2wzSp4FVHM-49">
+          <mxGeometry x="300" y="40" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="vCWMsVKqXc2wzSp4FVHM-54" value="副本战斗" style="rounded=0;whiteSpace=wrap;html=1;fontSize=16;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="vCWMsVKqXc2wzSp4FVHM-49">
+          <mxGeometry x="440" y="40" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="vCWMsVKqXc2wzSp4FVHM-61" style="edgeStyle=none;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.75;exitDx=0;exitDy=0;fontSize=12;startSize=8;endSize=8;" edge="1" parent="1" source="vCWMsVKqXc2wzSp4FVHM-57">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="980" y="-275" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="vCWMsVKqXc2wzSp4FVHM-57" value="开拓等级" style="rounded=0;whiteSpace=wrap;html=1;fontSize=16;fillColor=#b0e3e6;strokeColor=#0e8088;" vertex="1" parent="1">
+          <mxGeometry x="1280" y="-320" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="vCWMsVKqXc2wzSp4FVHM-58" value="" style="edgeStyle=segmentEdgeStyle;endArrow=classic;html=1;curved=0;rounded=0;endSize=8;startSize=8;fontSize=12;entryX=0.75;entryY=1;entryDx=0;entryDy=0;exitX=1;exitY=0.75;exitDx=0;exitDy=0;" edge="1" parent="1" source="vCWMsVKqXc2wzSp4FVHM-59" target="vCWMsVKqXc2wzSp4FVHM-57">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="990" y="230" as="sourcePoint" />
+            <mxPoint x="1040" y="180" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="vCWMsVKqXc2wzSp4FVHM-60" value="+ 开拓经验" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=16;" vertex="1" parent="1">
+          <mxGeometry x="1370" y="200" width="120" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="vCWMsVKqXc2wzSp4FVHM-62" value="+ 增加奖励&lt;br&gt;+ 游戏难度" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=16;" vertex="1" parent="1">
+          <mxGeometry x="1080" y="-260" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="vCWMsVKqXc2wzSp4FVHM-67" style="edgeStyle=none;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;fontSize=12;startSize=8;endSize=8;" edge="1" parent="1" source="vCWMsVKqXc2wzSp4FVHM-65">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="870" y="300" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="vCWMsVKqXc2wzSp4FVHM-69" value="+ 信用点" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=16;" vertex="1" parent="1">
+          <mxGeometry x="880" y="360" width="90" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="vCWMsVKqXc2wzSp4FVHM-71" value="+ 星琼&lt;br&gt;+ 开拓经验&lt;br&gt;+ 信用点&lt;br&gt;+ 角色经验材料&lt;br&gt;+ 遗器经验材料" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=16;" vertex="1" parent="1">
+          <mxGeometry x="730" y="300" width="120" height="140" as="geometry" />
+        </mxCell>
+        <mxCell id="vCWMsVKqXc2wzSp4FVHM-74" value="+ 星琼&lt;br&gt;+ 开拓经验&lt;br&gt;+ 信用点&lt;br&gt;+ 角色经验材料&lt;br&gt;+ 遗器经验材料&lt;br&gt;+ 光锥经验材料" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=16;" vertex="1" parent="1">
+          <mxGeometry x="470" y="300" width="120" height="140" as="geometry" />
+        </mxCell>
+        <mxCell id="vCWMsVKqXc2wzSp4FVHM-83" value="+ 星琼&lt;br&gt;+ 开拓经验&lt;br&gt;+ 信用点&lt;br&gt;+ 角色经验材料&lt;br&gt;+ 遗器经验材料" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=16;" vertex="1" parent="1">
+          <mxGeometry x="160" y="270" width="120" height="140" as="geometry" />
+        </mxCell>
+        <mxCell id="vCWMsVKqXc2wzSp4FVHM-87" style="edgeStyle=none;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.234;entryY=-0.01;entryDx=0;entryDy=0;entryPerimeter=0;fontSize=12;startSize=8;endSize=8;" edge="1" parent="1" source="vCWMsVKqXc2wzSp4FVHM-51" target="vCWMsVKqXc2wzSp4FVHM-31">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="vCWMsVKqXc2wzSp4FVHM-90" style="edgeStyle=none;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.116;entryY=-0.001;entryDx=0;entryDy=0;entryPerimeter=0;fontSize=12;startSize=8;endSize=8;" edge="1" parent="1" target="vCWMsVKqXc2wzSp4FVHM-31">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="380" y="-100.00000000000023" as="sourcePoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="vCWMsVKqXc2wzSp4FVHM-93" style="edgeStyle=none;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;fontSize=12;startSize=8;endSize=8;" edge="1" parent="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="320" y="-130.00000000000023" as="sourcePoint" />
+            <mxPoint x="160" y="-130" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="vCWMsVKqXc2wzSp4FVHM-91" value="+ 角色&lt;br&gt;+ 光锥" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=16;" vertex="1" parent="1">
+          <mxGeometry x="380" y="-70" width="80" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="vCWMsVKqXc2wzSp4FVHM-92" value="商店系统" style="swimlane;whiteSpace=wrap;html=1;fontSize=16;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+          <mxGeometry x="-40" y="-360" width="200" height="280" as="geometry" />
+        </mxCell>
+        <mxCell id="vCWMsVKqXc2wzSp4FVHM-4" value="地区商城" style="rounded=0;whiteSpace=wrap;html=1;fontSize=16;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="vCWMsVKqXc2wzSp4FVHM-92">
+          <mxGeometry x="20" y="200" width="160" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="vCWMsVKqXc2wzSp4FVHM-97" value="协议商店" style="rounded=0;whiteSpace=wrap;html=1;fontSize=16;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="vCWMsVKqXc2wzSp4FVHM-92">
+          <mxGeometry x="20" y="40" width="160" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="vCWMsVKqXc2wzSp4FVHM-99" value="光锥呈现" style="rounded=0;whiteSpace=wrap;html=1;fontSize=16;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="vCWMsVKqXc2wzSp4FVHM-92">
+          <mxGeometry x="20" y="120" width="160" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="vCWMsVKqXc2wzSp4FVHM-94" value="+ 未熄的星芒&lt;br&gt;+ 未熄的余烬" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=16;" vertex="1" parent="1">
+          <mxGeometry x="190" y="-190" width="110" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="vCWMsVKqXc2wzSp4FVHM-107" value="" style="edgeStyle=elbowEdgeStyle;elbow=horizontal;endArrow=classic;html=1;curved=0;rounded=0;endSize=8;startSize=8;fontSize=12;entryX=1.012;entryY=0.634;entryDx=0;entryDy=0;entryPerimeter=0;exitX=0;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="vCWMsVKqXc2wzSp4FVHM-51" target="vCWMsVKqXc2wzSp4FVHM-99">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="110" y="-280" as="sourcePoint" />
+            <mxPoint x="160" y="-330" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="vCWMsVKqXc2wzSp4FVHM-108" value="+ 流光余晖" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=16;" vertex="1" parent="1">
+          <mxGeometry x="290" y="-280" width="90" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="vCWMsVKqXc2wzSp4FVHM-113" value="" style="edgeStyle=elbowEdgeStyle;elbow=vertical;endArrow=classic;html=1;curved=0;rounded=0;endSize=8;startSize=8;fontSize=12;entryX=0.043;entryY=0.01;entryDx=0;entryDy=0;entryPerimeter=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="vCWMsVKqXc2wzSp4FVHM-92" target="vCWMsVKqXc2wzSp4FVHM-31">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="410" y="10" as="sourcePoint" />
+            <mxPoint x="460" y="-40" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="190" y="50" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="vCWMsVKqXc2wzSp4FVHM-114" value="- 未熄的星芒&lt;br style=&quot;border-color: var(--border-color);&quot;&gt;- 未熄的余烬&lt;br&gt;- 流光余晖&lt;br&gt;- 地区货币&lt;br&gt;- 黑塔债券" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=16;" vertex="1" parent="1">
+          <mxGeometry x="-80" y="-70" width="180" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="vCWMsVKqXc2wzSp4FVHM-115" value="" style="edgeStyle=elbowEdgeStyle;elbow=horizontal;endArrow=classic;html=1;curved=0;rounded=0;endSize=8;startSize=8;fontSize=12;entryX=0;entryY=0.5;entryDx=0;entryDy=0;exitX=0;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="vCWMsVKqXc2wzSp4FVHM-3" target="vCWMsVKqXc2wzSp4FVHM-4">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="110" y="10" as="sourcePoint" />
+            <mxPoint x="160" y="-40" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="-120" y="80" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="vCWMsVKqXc2wzSp4FVHM-117" value="+ 角色&amp;nbsp;&lt;br&gt;+ 光锥&lt;br&gt;+ 角色培养材料&lt;br&gt;+ 光锥培养材料&lt;br&gt;+ 星轨专票/星轨通票" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=16;" vertex="1" parent="1">
+          <mxGeometry x="60" y="-70" width="260" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="vCWMsVKqXc2wzSp4FVHM-118" style="edgeStyle=none;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.72;entryY=-0.014;entryDx=0;entryDy=0;entryPerimeter=0;fontSize=12;startSize=8;endSize=8;" edge="1" parent="1" source="vCWMsVKqXc2wzSp4FVHM-54" target="vCWMsVKqXc2wzSp4FVHM-31">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="vCWMsVKqXc2wzSp4FVHM-119" style="edgeStyle=none;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.559;entryY=-0.014;entryDx=0;entryDy=0;entryPerimeter=0;fontSize=12;startSize=8;endSize=8;" edge="1" parent="1" source="vCWMsVKqXc2wzSp4FVHM-53" target="vCWMsVKqXc2wzSp4FVHM-31">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="vCWMsVKqXc2wzSp4FVHM-120" style="edgeStyle=none;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.394;entryY=-0.002;entryDx=0;entryDy=0;entryPerimeter=0;fontSize=12;startSize=8;endSize=8;" edge="1" parent="1" source="vCWMsVKqXc2wzSp4FVHM-52" target="vCWMsVKqXc2wzSp4FVHM-31">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="vCWMsVKqXc2wzSp4FVHM-121" value="+ 星琼&lt;br&gt;+ 信用点&lt;br&gt;+ 角色经验材料&lt;br&gt;+ 光锥经验材料&lt;br&gt;+ 遗器经验材料" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=16;" vertex="1" parent="1">
+          <mxGeometry x="480" y="-200" width="120" height="140" as="geometry" />
+        </mxCell>
+        <mxCell id="vCWMsVKqXc2wzSp4FVHM-122" value="+ 野怪材料&lt;br&gt;+ 信用点" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=16;" vertex="1" parent="1">
+          <mxGeometry x="620" y="-190" width="100" height="140" as="geometry" />
+        </mxCell>
+        <mxCell id="vCWMsVKqXc2wzSp4FVHM-123" value="+ 星琼&lt;br&gt;+ 遗器&lt;br&gt;+ 信用点&lt;br&gt;+ 命运的足迹&lt;br&gt;+ 遗器经验材料" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=16;" vertex="1" parent="1">
+          <mxGeometry x="760" y="-190" width="120" height="140" as="geometry" />
+        </mxCell>
+        <mxCell id="vCWMsVKqXc2wzSp4FVHM-124" value="" style="edgeStyle=elbowEdgeStyle;elbow=vertical;endArrow=classic;html=1;curved=0;rounded=0;endSize=8;startSize=8;fontSize=12;entryX=0.5;entryY=0;entryDx=0;entryDy=0;exitX=0.5;exitY=0;exitDx=0;exitDy=0;" edge="1" parent="1" source="vCWMsVKqXc2wzSp4FVHM-53" target="vCWMsVKqXc2wzSp4FVHM-92">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="480" y="-60" as="sourcePoint" />
+            <mxPoint x="530" y="-110" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="410" y="-400" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="vCWMsVKqXc2wzSp4FVHM-131" value="+ 遗器&lt;br&gt;+ 信用点&lt;br&gt;+ 经验材料&lt;br&gt;+ 行迹材料&lt;br&gt;+ 角色培养材料&lt;br&gt;+ 光锥培养材料" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=16;" vertex="1" parent="1">
+          <mxGeometry x="900" y="-180" width="120" height="140" as="geometry" />
+        </mxCell>
+        <mxCell id="vCWMsVKqXc2wzSp4FVHM-132" value="卡池" style="rounded=0;whiteSpace=wrap;html=1;fontSize=16;fillColor=#e1d5e7;strokeColor=#9673a6;" vertex="1" parent="1">
+          <mxGeometry x="320" y="-160" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="vCWMsVKqXc2wzSp4FVHM-134" value="- 体力&amp;nbsp;&lt;br&gt;+ 开拓经验" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=16;" vertex="1" parent="1">
+          <mxGeometry x="1080" y="-360" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="vCWMsVKqXc2wzSp4FVHM-135" value="+ 黑塔债券" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=16;" vertex="1" parent="1">
+          <mxGeometry x="360" y="-440" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="vCWMsVKqXc2wzSp4FVHM-136" value="" style="edgeStyle=elbowEdgeStyle;elbow=horizontal;endArrow=classic;html=1;curved=0;rounded=0;endSize=8;startSize=8;fontSize=12;entryX=1;entryY=0.5;entryDx=0;entryDy=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="vCWMsVKqXc2wzSp4FVHM-57" target="vCWMsVKqXc2wzSp4FVHM-31">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="880" y="-70" as="sourcePoint" />
+            <mxPoint x="930" y="-120" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="1340" y="190" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="vCWMsVKqXc2wzSp4FVHM-137" value="提高等级上限" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=16;" vertex="1" parent="1">
+          <mxGeometry x="1210" y="-80" width="110" height="30" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
